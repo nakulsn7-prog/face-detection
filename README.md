@@ -22,7 +22,7 @@ Face-Detection/
 ├── cascades/
 │   └── haarcascade_frontalface_default.xml
 │
-├── samples/        (optional)
+├── assets/        (optional)
 │   ├── sample.jpg
 │   └── sample_video.mp4
 │

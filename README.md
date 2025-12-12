@@ -14,19 +14,22 @@ This project performs real-time face detection using OpenCV's Haarcascade classi
 ---
 
 ## 📁 Project Structure
-Face-Detection/
+Face-Detection-Project/
+│
+├── assets/
+│    ├── haarcascade_frontalface_default.xml
+│    ├── sample1.jpg
+│    ├── sample2.jpg
+│
+├── results/
+│    ├── README.md
 │
 ├── src/
-│   └── face_detection.py
-│
-├── cascades/
-│   └── haarcascade_frontalface_default.xml
-│
-├── assets/        (optional)
-│   ├── sample.jpg
-│   └── sample_video.mp4
+│    ├── face_detection.py
+├── requirements.txt
 │
 └── README.md
+
 
 ---
 
